@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋I´m Martina<br>👀 I’m interested in SQL, Python, Git, Microsoft Azure, Claude<br>📫 How to reach me: m.hrehova0@gmail.com
+Hi there 👋I´m Martina<br>👀 I’m interested in SQL, Python, Git, Microsoft Azure, Claude Cowork<br>📫 How to reach me: m.hrehova0@gmail.com
 
 
 ## 🌐 Socials:
